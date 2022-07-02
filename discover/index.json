@@ -1,0 +1,25 @@
+{
+  "info": {
+    "source": "go.particlecloud.net/discover/v1/catalog",
+    "seed": "ec6d6c9d5aa09b6ed3deba9f77cc3814891700baeb0dd464f89f1bf4b4db55fa",
+    "hash": "1e81c9eed51e77cdc80bc74cac2a503de9e55ecb28f5f5700e38a7f9e5bb6669",
+    "key": "04c28071a33306d34e4b89f157209ebdcad1610b59cda471e9a316869189fc3b599a04fd87baac8b0991ac6791ff9fcfb5c1bd0e86e7fad398982b67dd3a08b9ee460804b3eacd5c086cc5f4300785e34418ac8707915464d046e0f381793f0d8f"
+  },
+  "brokers": [
+	{
+		"address": ["go.particlecloud.net"],
+		"path": "/broker/v1/catalog",
+		"key": "04c28071a33306d34e4b89f157209ebdcad1610b59cda471e9a316869189fc3b599a04fd87baac8b0991ac6791ff9fcfb5c1bd0e86e7fad398982b67dd3a08b9ee460804b3eacd5c086cc5f4300785e34418ac8707915464d046e0f381793f0d8f"
+	},
+	{
+		"address": ["discover.particlecloud.net"],
+		"path": "/broker/v1/catalog",
+		"key": "04c28071a33306d34e4b89f157209ebdcad1610b59cda471e9a316869189fc3b599a04fd87baac8b0991ac6791ff9fcfb5c1bd0e86e7fad398982b67dd3a08b9ee460804b3eacd5c086cc5f4300785e34418ac8707915464d046e0f381793f0d8f"
+	},
+	{
+		"address": ["discover.wixcloud.de"],
+		"path": "/broker/v1/catalog",
+		"key": "04c28071a33306d34e4b89f157209ebdcad1610b59cda471e9a316869189fc3b599a04fd87baac8b0991ac6791ff9fcfb5c1bd0e86e7fad398982b67dd3a08b9ee460804b3eacd5c086cc5f4300785e34418ac8707915464d046e0f381793f0d8f"
+	}
+  ]
+}
